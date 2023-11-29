@@ -1,7 +1,12 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<div align="center">
+  <img height="50%" width="100%" src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif"  />
+</div>
+
 </div>
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<br>
+<br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmerpm&label=Profile%20views&color=0e75b6&style=flat" alt="itsmerpm" /> </p>
@@ -10,11 +15,9 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsmerpm](https://github.com/itsmerpm)
+- 👨‍💻 All of my projects are available at [itsmerpm](https://github.com/itsmerpm)
 
 - 💬 Ask me about **Html Css Javascript**
-
-- 📫 How to reach me **Rahulpm0021@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,30 +27,35 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+<h3 align="center">Languages and Tools</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmerpm&show_icons=true&locale=en&layout=compact" alt="itsmerpm" /></p>
+  <h2 align="center">My Stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmerpm&show_icons=true&locale=en" alt="itsmerpm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmerpm&" alt="itsmerpm" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmerpm&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmerpm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=itsmerpm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 <img src="https://raw.githubusercontent.com/itsmerpm/itsmerpm/output/snake.svg" alt="Snake animation" />
+
 
 
 
