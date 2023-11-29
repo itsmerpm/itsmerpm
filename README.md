@@ -54,7 +54,13 @@
   <img src="https://streak-stats.demolab.com?user=itsmerpm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/itsmerpm/itsmerpm/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
