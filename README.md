@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [itsmerpm](https://github.com/itsmerpm)
+- 👨‍💻 All of my projects are available at [itsmerpm](https://github.com/itsmerpm?tab=repositories)
 
 - 💬 Ask me about **Html Css Javascript**
 
